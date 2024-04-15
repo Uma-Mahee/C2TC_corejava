@@ -1,4 +1,4 @@
-package com.c38.day2;
+package com.c38.day4;
 
 public class Person {
 

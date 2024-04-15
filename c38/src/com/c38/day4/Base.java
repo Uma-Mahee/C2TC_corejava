@@ -1,4 +1,4 @@
-package com.c38.day2;
+package com.c38.day4;
 
 public class Base {
 	
@@ -24,7 +24,7 @@ public class Base {
 		System.out.println("Public access Baseclass");
 		System.out.println("Public Variable :"+varPublic);
 		}
-		private void methodPrivate()
+	private void methodPrivate()
 		{
 		System.out.println("Private access Base class");
 		System.out.println("Private Variable :"+varPrivate);
