@@ -5,4 +5,4 @@
  * @author ELCOT
  *
  */
-package com.TNSDay02;
+package com.day5_hierarichalinheritance;
